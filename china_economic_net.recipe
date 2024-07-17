@@ -37,3 +37,4 @@ class AdvancedUserRecipe1278162597(BasicNewsRecipe):
         dict(name='div', attrs={'class': 'laiyuan'}),
         dict(name='div', attrs={'id': 'articleText'}),
     ]
+compress_news_images = True
