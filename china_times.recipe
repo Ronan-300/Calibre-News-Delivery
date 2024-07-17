@@ -39,3 +39,4 @@ class AdvancedUserRecipe1277443634(BasicNewsRecipe):
     conversion_options = {'linearize_tables': True}
     masthead_url = 'http://www.fcuaa.org/gif/chinatimeslogo.gif'
     cover_url = 'http://www.fcuaa.org/gif/chinatimeslogo.gif'
+compress_news_images = True
