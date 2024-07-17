@@ -287,3 +287,4 @@ class BBCNews(BasicNewsRecipe):
 
     def preprocess_raw_html(self, raw_html, url):
         return parse_raw_html(raw_html, self.abort_article)
+compress_news_images = True
